@@ -16,6 +16,11 @@ env/
 *.mp4
 *.avi
 
+# PyInstaller
+build/
+dist/
+*.spec
+
 # IDE
 .vscode/
 .idea/
